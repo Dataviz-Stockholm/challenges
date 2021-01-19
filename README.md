@@ -1,6 +1,8 @@
 # challenges
 This repo contains the repositories for Data Visualization Stockholm meetup dataviz challenges. We will strive to publish new challenges here regulary and store the submissions here and in the Data Visualisation Stockholm slack.
 
+Links and images are accepted as submissions.
+
 ## Challenge #1 - Snow and fire
 This challenge is all about snow and heat. The dataset is about the snow depth and temperature in Stockholm and is quite large as it stretches from January 2021 all the way back to the beginning of the 20th century. You can choose to visualise the whole dataset or just parts of it, it is up to you.
 
