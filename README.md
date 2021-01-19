@@ -7,4 +7,5 @@ This challenge is all about snow and heat. The dataset is about the snow depth a
 The data was collected at a weather station in central Stockholm (Latitud 59.3417, Longitud 18.0549).
 
 Design constraints: Keep the design to black and white.
+
 Dataset: https://github.com/Dataviz-Stockholm/challenges/blob/main/date_temperature_snow.csv
