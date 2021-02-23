@@ -13,3 +13,7 @@ __Design constraints:__ Keep the design to black and white.
 __Dataset:__ https://github.com/Dataviz-Stockholm/challenges/blob/main/date_temperature_snow.csv
 
 __Deadline:__ Tuesday January 26th 2021
+
+__Writeup:__ [Read about the submissions here](https://medium.com/@dataviz.stockholm/data-viz-challenge-1-a288142e8006)
+
+
