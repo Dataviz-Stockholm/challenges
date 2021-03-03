@@ -1,7 +1,9 @@
 # challenges
 This repo contains the repositories for Data Visualization Stockholm meetup dataviz challenges. We will strive to publish new challenges here regulary and store the submissions here and in the Data Visualisation Stockholm slack.
 
-Links and images are accepted as submissions.
+All are welcome to participate. Use any tools you like (including pen and paper). Links and images are accepted as submissions.
+
+To submit your viz, post on Twitter with hashtag #sthmVizChallenge or post in the Data Visualization Stockholm Slack #challenges channel (join the Slack here: https://join.slack.com/t/datavizstockholm/shared_invite/zt-kj9bgi6v-yO0GsOpPffMo~qfDwY6IyQ)
 
 
 ## Challenge #2 - The beautiful (data) game
