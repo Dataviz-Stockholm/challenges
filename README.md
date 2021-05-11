@@ -16,7 +16,9 @@ The data was collected from elections agency for the national elections in Stock
 (Voting district map data, geojson format) https://data.val.se/val/val2018/statistik/index.html#gis
 
 __Design constraints:__ Metaphors - Nature
+
 __Dataset:__ https://github.com/Dataviz-Stockholm/challenges/tree/main/Challenge_three-Elections
+
 __Deadline:__ Thursday 20th 2021
 
 ## Challenge #2 - The beautiful (data) game
@@ -27,6 +29,7 @@ https://sv.wikipedia.org/wiki/Allsvenskan_(fotboll)
 https://sv.wikipedia.org/wiki/Fotbollsallsvenskans_maratontabell
 
 __Design constraints:__ Keep the design small, 345px x 345px is the limit.
+
 __Dataset:__ https://github.com/Dataviz-Stockholm/challenges/tree/main/Challenge_two-Beautiful-game
 
 __Deadline:__ Monday March 15th 2021
@@ -36,6 +39,9 @@ This challenge is all about snow and heat. The dataset is about the snow depth a
 The data was collected at a weather station in central Stockholm (Latitud 59.3417, Longitud 18.0549).
 
 __Design constraints:__ Keep the design to black and white.
+
 __Dataset:__ https://github.com/Dataviz-Stockholm/challenges/blob/main/date_temperature_snow.csv
+
 __Deadline:__ Tuesday January 26th 2021
+
 __Writeup:__ [Read about the submissions here](https://medium.com/@dataviz.stockholm/data-viz-challenge-1-a288142e8006)
